@@ -6,7 +6,7 @@ Thanks @DataWithDanny for the excellent SQL case studies! 🙏
 # Case Study #1: Danny's Diner
 ![1 1](https://user-images.githubusercontent.com/84062846/184275950-39632ff5-937f-4266-b780-846d3fee222a.png)
 
-View the case study here and my solution here and on **[Medium](https://medium.com/@camtupvc9876/sql-challenge-case-study-1-dannys-diner-3091dbbee4d2)**!
+View the case study here and my solution **[here](https://github.com/camtu-1310/SQL-8-Week-Challenge/blob/dc7e13fa6eff7dae204c998b18bc3f313fa47b2e/Case%20Study%20%231/Solution.sql)** and on **[Medium](https://medium.com/@camtupvc9876/sql-challenge-case-study-1-dannys-diner-3091dbbee4d2)**!
 
 ## Business Task
 Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite.
