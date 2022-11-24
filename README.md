@@ -17,12 +17,19 @@ Danny wants to use the data to answer a few simple questions about his customers
 
 ## Insights and Findings
 A has spend the most amount in the restaurant.
+
 B is the most frequent visitor in the restaurant.
+
 Ramen is the most purchased item on the menu.
+
 The first purchased item by A is sushi, for B it is curry and for C it is ramen.
+
 Ramen is the most popular dish for A and C. For B it is curry and sushi.
+
 After A became a member, the first item they purchased is curry and B purchased sushi.
+
 Before A become a member, they has spend $25 and B has spend $40.
+
 
 # Case Study #2: Pizza Runner
 
